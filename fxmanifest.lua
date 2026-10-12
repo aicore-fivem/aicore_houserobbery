@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_houserobbery'
-repository 'https://github.com/0error-scripts/aicore_houserobbery'
+repository 'https://github.com/aicore-fivem/aicore_houserobbery'
 version '1.0.0'
 
 ox_lib 'locale'
